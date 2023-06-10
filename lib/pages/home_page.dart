@@ -62,7 +62,7 @@ class _HomePageState extends State<HomePage> {
     getTrending();
     getNowPlaying();
     return Scaffold(
-      backgroundColor: Colors.black,
+      backgroundColor: Colors.blue,
       appBar: AppBar(
         title: Text('Movies App'),
         backgroundColor: Colors.transparent,

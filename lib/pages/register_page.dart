@@ -166,12 +166,6 @@ class _RegisterPageState extends State<RegisterPage> {
                         SizedBox(
                           width: 4,
                         ),
-                        TextButton(
-                          onPressed: widget.onTap,
-                          child: Text('Log in Now!'),
-                          style: TextButton.styleFrom(
-                              backgroundColor: Colors.transparent),
-                        )
                       ],
                     )
                   ],
